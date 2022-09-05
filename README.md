@@ -1,2 +1,1 @@
-# CV
-[Project: CV](https://zilola08.github.io/rsschool-cv/cv)
+# [CV](https://zilola08.github.io/rsschool-cv/cv)
