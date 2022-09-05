@@ -1,2 +1,2 @@
 # rsschool-cv
-[Project: CV.md](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[Project: CV.md](https://zilola08.github.io/rsschool-cv/cv)
